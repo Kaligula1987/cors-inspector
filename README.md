@@ -32,8 +32,12 @@ source venv/bin/activate
 7.
 pip install -r requirements.txt
 
+#go to main tool folder again if your not#
+
 8.
 python3 cors_inspector.py
+
+
 -----------------------------------------------------------------------------------------------------------------------------
 
 Example:
