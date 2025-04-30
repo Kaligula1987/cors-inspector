@@ -19,16 +19,20 @@ A Python script to inspect and test Cross-Origin Resource Sharing (CORS) headers
 
 3. 
 python -m venv venv
+
+
 .\venv\Scripts\activate
 
-4.
+5.
 python3 -m venv venv
+
+
 source venv/bin/activate
 
-5.
+7.
 pip install -r requirements.txt
 
-6.
+8.
 python3 cors_inspector.py
 -----------------------------------------------------------------------------------------------------------------------------
 
